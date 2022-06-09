@@ -11,7 +11,7 @@ const Navbar = () => {
                             <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h8m-8 6h16" /></svg>
                         </label>
                         <ul tabindex="0" class="menu menu-compact dropdown-content mt-3 p-2 shadow bg-base-100 rounded-box w-52">
-                            <li><NavLink to='/aboutMe' className={({ isActive }) =>
+                            <li><NavLink to='/about' className={({ isActive }) =>
                                 isActive ? 'bg-gradient-to-r from-green-400 to-blue-500 text-white text-xl' : ' text-xl hover:bg-gradient-to-r from-pink-500 to-yellow-500 '
                             }>About Me</NavLink></li>
 
@@ -28,7 +28,7 @@ const Navbar = () => {
                 </div>
                 <div class="navbar-end hidden lg:flex">
                     <ul class="menu menu-horizontal p-0">
-                        <li><NavLink to='/aboutMe' className={({ isActive }) =>
+                        <li><NavLink to='/about' className={({ isActive }) =>
                             isActive ? 'mr-4 bg-gradient-to-r from-green-400 to-blue-500 text-white text-xl' : 'text-white text-xl hover:bg-gradient-to-r from-pink-500 to-yellow-500 mr-4'
                         }>About Me</NavLink></li>
 
