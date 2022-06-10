@@ -3,9 +3,12 @@ import React from 'react';
 const Card = () => {
     return (
         <div className='bg-primary'>
-            <div className=' flex-none justify-center items-center lg:flex justify-evenly  py-12'>
+            <div className=' pl-4 flex-none justify-center items-center lg:flex justify-evenly  py-12'>
 
-                <div class="card w-96 bg-neutral text-primary-content">
+                <div data-aos="zoom-in"
+                    data-aos-delay="450"
+                    data-aos-duration="1000"
+                    class="card w-96 bg-neutral shadow-xl text-primary-content">
                     <div class="card-body">
                         <h2 class="text-4xl font-bold text-white">
                             01 <br />
@@ -15,7 +18,10 @@ const Card = () => {
                     </div>
                 </div>
 
-                <div class="card w-96 h-[400px]  bg-success text-primary-content">
+                <div data-aos="zoom-in"
+                    data-aos-delay="550"
+                    data-aos-duration="1000"
+                    class="card w-96 h-[400px] shadow-xl bg-success text-primary-content">
                     <div class="card-body">
                         <h2 class="text-4xl font-bold text-primary">
                             02 <br />
@@ -25,7 +31,10 @@ const Card = () => {
                     </div>
                 </div>
 
-                <div class="card w-96 bg-neutral text-primary-content">
+                <div data-aos="zoom-in-down"
+                    data-aos-delay="700"
+                    data-aos-duration="1000"
+                    class="card w-96 bg-neutral shadow-xl text-primary-content">
                     <div class="card-body">
                         <h2 class="text-4xl font-bold text-white">
                             03 <br />

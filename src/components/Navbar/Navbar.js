@@ -3,7 +3,7 @@ import { NavLink } from 'react-router-dom';
 
 const Navbar = () => {
     return (
-        <div className=' sticky top-0 bg-primary'>
+        <div className=' lg:sticky top-0 bg-primary'>
             <div class="navbar bg-primary">
                 <div class="navbar-start ">
                     <div class="dropdown">
@@ -21,6 +21,9 @@ const Navbar = () => {
                             <li><NavLink to='/myProject' className={({ isActive }) =>
                                 isActive ? 'bg-gradient-to-r from-green-400 to-blue-500 text-white text-xl' : ' text-xl hover:bg-gradient-to-r from-pink-500 to-yellow-500'
                             }>My Project</NavLink></li>
+                            <li><NavLink to='/blog' className={({ isActive }) =>
+                                isActive ? 'bg-gradient-to-r from-green-400 to-blue-500 text-white text-xl' : ' text-xl hover:bg-gradient-to-r from-pink-500 to-yellow-500'
+                            }>Blog Post</NavLink></li>
                         </ul>
                     </div>
                     <NavLink to='/' className={({ isActive }) =>
@@ -38,6 +41,9 @@ const Navbar = () => {
                         <li><NavLink to='/myProject' className={({ isActive }) =>
                             isActive ? 'mr-4 bg-gradient-to-r from-green-400 to-blue-500 text-white text-xl' : 'text-white text-xl hover:bg-gradient-to-r from-pink-500 to-yellow-500 mr-4'
                         }>My Project</NavLink></li>
+                        <li><NavLink to='/blog' className={({ isActive }) =>
+                            isActive ? 'mr-4 bg-gradient-to-r from-green-400 to-blue-500 text-white text-xl' : 'text-white text-xl hover:bg-gradient-to-r from-pink-500 to-yellow-500 mr-4'
+                        }>Blog Post</NavLink></li>
                     </ul>
                 </div>
 

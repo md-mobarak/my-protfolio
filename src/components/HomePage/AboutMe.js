@@ -8,12 +8,12 @@ const AboutMe = () => {
                 <div class="hero-content flex-col lg:flex-row gap-x-24 py-24">
 
                     <img
-                        src={profile} alt='' className='lg:w-[50%] rounded-full border-pink-500 ease-in-out duration-300  ' />
+                        src={profile} alt='' className='hover:translate-y-8 lg:w-[50%] rounded-full border-pink-500 ease-in-out duration-300  ' />
 
                     <div className='flex items-center'>
                         <div>
-                            <h1 class="text-5xl text-white font-bold text-center text-secondary">About Me</h1>
-                            <p class="py-6 text-white text-xl">Hello! I’m Mobarak Hossen. Web Developer with over 8 years of experience. Experienced with all stages of the development cycle for dynamic web projects. Having an in-depth knowledge including advanced HTML5, CSS3, JavaScript, jQuery, Angular JS. Strong background in management and leadership.</p>
+                            <h1 class="text-5xl hover:text-warning text-white font-bold text-center text-secondary">About Me</h1>
+                            <p class="py-6 hover:text-warning text-white text-xl">Hello! I’m Mobarak Hossen. Web Developer with good experience. Experienced with all stages of the development cycle for dynamic web projects. Having an in-depth knowledge including advanced HTML5, CSS3, JavaScript, ReactJS, Angular JS. Strong background in management and leadership.</p>
                             <p className='text-2xl text-secondary font-bold'>NAME : <span className='text-white font-thin'> Mobarak Hossen</span></p>
                             <p className='text-2xl text-secondary font-bold'>DATE OF BIRTH : <span className='text-white font-thin'> 10-05-2000</span></p>
                             <p className='text-2xl text-secondary font-bold'>NATIONALITY : <span className='text-white font-thin'> Bangladeshi</span> </p>
