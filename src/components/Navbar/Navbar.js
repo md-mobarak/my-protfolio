@@ -27,7 +27,7 @@ const Navbar = () => {
                         </ul>
                     </div>
                     <NavLink to='/' className={({ isActive }) =>
-                        isActive ? 'ml-6 bg-gradient-to-r from-green-400 to-blue-500 btn btn-ghost normal-case text-2xl text-white ' : 'btn btn-ghost normal-case text-2xl text-white hover:bg-gradient-to-r from-pink-500 to-yellow-500 ml-6'}>MOBARAK</NavLink>
+                        isActive ? 'ml-6 lg:bg-gradient-to-r from-green-400 to-blue-500 btn btn-ghost normal-case lg:text-2xl text-white ' : 'btn btn-ghost normal-case text-2xl text-white hover:bg-gradient-to-r from-pink-500 to-yellow-500 ml-6'}>MOBARAK</NavLink>
                 </div>
                 <div class="navbar-end hidden lg:flex">
                     <ul class="menu menu-horizontal p-0">

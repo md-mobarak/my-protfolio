@@ -9,6 +9,7 @@ import 'aos/dist/aos.css'; // You can also use <link> for styles
 import Blog from './components/Blog/Blog';
 import MyProject from './components/MyProject/MyProject';
 import Footer from './components/Footer/Footer';
+import ProjectDetails from './components/MyProject/ProjectDetails';
 // ..
 AOS.init();
 
@@ -22,6 +23,7 @@ function App() {
         <Route path='/contactMe' element={<ContactMe></ContactMe>}></Route>
         <Route path='/blog' element={<Blog></Blog>}></Route>
         <Route path='/myProject' element={<MyProject></MyProject>}></Route>
+        <Route path='/projectDetail/:id' element={<ProjectDetails></ProjectDetails>}></Route>
       </Routes>
       <Footer></Footer>
     </div>

@@ -11,6 +11,10 @@ const Skill = () => {
                 <p className='text-white font-bold text-2xl'>TAILWIND-CSS <br /> <progress class="progress progress-success w-80 bg-white" value="90" max="100"></progress></p>
                 <p className='text-white font-bold text-2xl'>JAVASCRIPT <br /> <progress class="progress progress-success bg-white w-80" value="70" max="100"></progress></p>
                 <p className='text-white font-bold text-2xl'>REACT <br /> <progress class="progress progress-success bg-white w-80" value="90" max="100"></progress></p>
+                <p className='text-white font-bold text-2xl'>MONGODB <br /> <progress class="progress progress-success bg-white w-80" value="90" max="100"></progress></p>
+                <p className='text-white font-bold text-2xl'>NODE-JS <br /> <progress class="progress progress-success bg-white w-80" value="90" max="100"></progress></p>
+                <p className='text-white font-bold text-2xl'>EXPRESS-JS <br /> <progress class="progress progress-success bg-white w-80" value="90" max="100"></progress></p>
+                <p className='text-white font-bold text-2xl'>FIREBASE <br /> <progress class="progress progress-success bg-white w-80" value="90" max="100"></progress></p>
 
             </div>
         </div>

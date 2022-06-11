@@ -19,7 +19,7 @@ const Home = () => {
                             data-aos-easing="ease-out-cubic"
                             data-aos-delay="200"
                             data-aos-duration="2000"
-                            className={`text-6xl font-bold text-success hover:text-warning`}>hello!  <span className='text-4xl block'>I am Mobarak Hossen
+                            className={`text-2xl lg:text-6xl font-bold text-success hover:text-warning`}>hello!  <span className='text-2xl lg:text-4xl block'>I am Mobarak Hossen
                             </span>
                             <span> Jr.Web-Developer</span>
                         </h1>
@@ -36,7 +36,7 @@ const Home = () => {
             <Card></Card>
             <MyProject></MyProject>
             <ContactMe></ContactMe>
-            <Footer></Footer>
+
         </div>
 
     );
