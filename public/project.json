@@ -3,30 +3,30 @@
         "_id": 1,
         "name": "Car Manufacturing",
         "img": "https://img.freepik.com/free-psd/silver-sedan-car_53876-84522.jpg?t=st=1654868708~exp=1654869308~hmac=f491f6b660be82d4c37ac090603d4d55fed6cb8f4961cf626c9b3babaf375f24&w=740",
-        "screenShot-1": "https://i.ibb.co/TMLzQT5/Screenshot-8.png",
-        "screenShot-2": "https://i.ibb.co/RbHjKRC/Screenshot-5.png",
-        "screenShot-3": "https://i.ibb.co/4212jKn/Screenshot-6.png",
-        "screenShot-4": "https://i.ibb.co/NVqWHC5/Screenshot-7.png",
+        "screenShot1": "https://i.ibb.co/TMLzQT5/Screenshot-8.png",
+        "screenShot2": "https://i.ibb.co/RbHjKRC/Screenshot-5.png",
+        "screenShot3": "https://i.ibb.co/4212jKn/Screenshot-6.png",
+        "screenShot4": "https://i.ibb.co/NVqWHC5/Screenshot-7.png",
         "Description": "l"
     },
     {
         "_id": 2,
         "name": "Grocery Store",
         "img": "https://img.freepik.com/free-photo/top-view-assortment-vegetables-grocery-bag_23-2148853338.jpg?t=st=1654869117~exp=1654869717~hmac=59d5c5ebbdcd74d1360cf0a15a202427ed118a8f0aa4ff725ea728f6017f32ec&w=740",
-        "screenShot-1": "https://i.ibb.co/cJ0sxQ1/Screenshot-9.png",
-        "screenShot-2": "https://i.ibb.co/G0hK2xX/Screenshot-10.png",
-        "screenShot-3": "https://i.ibb.co/4SpSGZ4/Screenshot-11.png",
-        "screenShot-4": "https://i.ibb.co/bF162dc/Screenshot-12.png",
+        "screenShot1": "https://i.ibb.co/cJ0sxQ1/Screenshot-9.png",
+        "screenShot2": "https://i.ibb.co/G0hK2xX/Screenshot-10.png",
+        "screenShot3": "https://i.ibb.co/4SpSGZ4/Screenshot-11.png",
+        "screenShot4": "https://i.ibb.co/bF162dc/Screenshot-12.png",
         "Description": "l"
     },
     {
         "_id": 3,
         "name": "Surgical Care",
         "img": "https://img.freepik.com/free-photo/happy-doctor-holding-clipboard-with-patients_1098-2176.jpg?size=626&ext=jpg&uid=R67485285&ga=GA1.2.1640986440.1648220735",
-        "screenShot-1": "https://i.ibb.co/DgsCQPJ/Screenshot-13.png",
-        "screenShot-2": "https://i.ibb.co/z43Yz2N/Screenshot-14.png",
-        "screenShot-3": "https://i.ibb.co/VjSKgCm/Screenshot-15.png",
-        "screenShot-4": "https://i.ibb.co/Kxrq3fx/Screenshot-16.png",
+        "screenShot1": "https://i.ibb.co/DgsCQPJ/Screenshot-13.png",
+        "screenShot2": "https://i.ibb.co/z43Yz2N/Screenshot-14.png",
+        "screenShot3": "https://i.ibb.co/VjSKgCm/Screenshot-15.png",
+        "screenShot4": "https://i.ibb.co/Kxrq3fx/Screenshot-16.png",
         "Description": "l"
     }
 ]
