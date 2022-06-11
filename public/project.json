@@ -7,7 +7,7 @@
         "screenShot2": "https://i.ibb.co/RbHjKRC/Screenshot-5.png",
         "screenShot3": "https://i.ibb.co/4212jKn/Screenshot-6.png",
         "screenShot4": "https://i.ibb.co/NVqWHC5/Screenshot-7.png",
-        "Description": "l"
+        "Description": "● A Full-stack website where you have the admin dashboard and user dashboard.● Support CRUD Operation.● To Place an Order, Users have to log in with a google account."
     },
     {
         "_id": 2,
@@ -17,7 +17,7 @@
         "screenShot2": "https://i.ibb.co/G0hK2xX/Screenshot-10.png",
         "screenShot3": "https://i.ibb.co/4SpSGZ4/Screenshot-11.png",
         "screenShot4": "https://i.ibb.co/bF162dc/Screenshot-12.png",
-        "Description": "l"
+        "Description": "● The site is a full-stack website. A login user can add-products and delete products.● Users have to log in with an Email and Google account.● If you want to login with email, the user's email will also be a verification email"
     },
     {
         "_id": 3,
@@ -27,6 +27,6 @@
         "screenShot2": "https://i.ibb.co/z43Yz2N/Screenshot-14.png",
         "screenShot3": "https://i.ibb.co/VjSKgCm/Screenshot-15.png",
         "screenShot4": "https://i.ibb.co/Kxrq3fx/Screenshot-16.png",
-        "Description": "l"
+        "Description": "● This is the Surgical Care site. When you click the checkout button you will be taken to the checkout page.● log in system by firebase authentication .● The routing system applies with react-router"
     }
 ]
